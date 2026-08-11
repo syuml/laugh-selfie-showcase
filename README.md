@@ -13,6 +13,14 @@ Laugh Selfie is a mobile app built around one simple daily action: record a shor
 
 The idea leans on something laughter research keeps circling back to: the physical act of laughing has real mood benefits even when it isn't triggered by something especially funny. So the app removes every point of friction between "I should do this" and "I did it" — one tap, a few seconds, done.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/today.png" width="260" alt="Today tab: daily joke and capture button" />
+  <img src="screenshots/icon-shop.png" width="260" alt="Icon Shop tab: motion icon presets" />
+  <img src="screenshots/you.png" width="260" alt="You tab: streak, laughs, and settings" />
+</p>
+
 ## Features
 
 - **Today** — a rotating joke to nudge things along, and a single tap to capture the day's laugh.
